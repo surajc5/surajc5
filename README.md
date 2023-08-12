@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋,नमस्ते (Namaste) 🙏🏻, I'm Suraj Barik</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif),नमस्ते (Namaste) 🙏🏻, I'm Suraj Barik
+===================================================================================================================================
+
 
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif?cid=ecf05e478ac89e12d1fn1yalq62q801xzdrfbqnnee1p0zd2&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
